@@ -1,0 +1,94 @@
+body
+{
+  background-color: lightblue;
+}
+ .heading{
+   font-size: 2.5rem;
+   color:black;
+   margin-bottom: 2.5rem;
+   border-bottom: .2rem solid rgba(0,0,0,.2);
+   padding-top: 30rem
+   padding-bottom: 1.5rem;
+   
+   text-transform: capitalize;
+}
+    section
+    {
+   padding:2rem;
+   margin: 0 auto;
+   max-width: 1200px;
+   padding-left: 30px;
+   
+    }
+    .title
+  {
+  margin-top: 20px;
+  font-size: 2rem;
+    color: black;
+     padding-left: 20px;
+   padding-bottom: 20px;
+   display: flex;
+
+  }
+  .description
+  {
+  line-height: 1.5;
+   font-size: 1.7rem;
+   color: #888;
+   margin-top: 1rem;
+   padding-left: 20px;
+   padding-bottom: 20px;
+   display: inline-flex;
+  }
+  .main
+  {
+   display: inline-flex;
+  }
+  .main2
+  {
+    background-color: #eee;
+    border-radius: .5rem;
+    width: 27rem;
+    object-fit: cover;
+    box-shadow:blue;
+  }
+  .box
+  {
+    margin: 25px;
+    border-radius: .5rem;
+  }
+  .serch
+{
+  border-radius: 10px;
+  border: 2px solid lightblue;
+  width: 500px;
+  height: 40px;
+  padding-left: 20px;
+  font-size: 1.5rem;
+
+}
+.catagory
+{
+  border-radius: 10px;
+  border: 2px solid lightblue;
+  width: 250px;
+  height: 40px;
+  padding-left: 20px;
+  
+  font-size: 1.5rem;
+}
+
+.btn4
+{
+      background: blue;
+    color:white;
+    text-decoration: none;
+    align-items: center;
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    width: 90px;
+    border: 2px solid blue;
+
+}
